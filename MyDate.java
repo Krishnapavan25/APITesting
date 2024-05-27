@@ -6,7 +6,7 @@ class MyDate
   {
      day=19;
      month=03;
-     year=2024;
+     year=2023;
    }
    public void dispDate()
    {
