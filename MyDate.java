@@ -4,9 +4,9 @@ class MyDate
 
   public void initDate()
   {
-     day=19;
+     day=25;
      month=03;
-     year=2023;
+     year=2000;
    }
    public void dispDate()
    {
